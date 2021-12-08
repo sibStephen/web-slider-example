@@ -1,0 +1,10 @@
+personaslider:
+  - title: 'Persona Slider Title one'
+    description: 'Persona Slider Description one'
+    cta_url: '/'
+    cta_title: 'CTA Title one'
+
+  - title: 'Persona Slider Title two'
+    description: 'Persona Slider Description two'
+    cta_url: '/'
+    cta_title: 'CTA Title two'
